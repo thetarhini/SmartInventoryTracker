@@ -1,3 +1,5 @@
+namespace SIT.Core.Entities
+{
 public class InventoryLog
 {
     public int Id { get; set; }
@@ -7,4 +9,5 @@ public class InventoryLog
     public DateTime Timestamp { get; set; }
 
     public Product Product { get; set; }
+}
 }

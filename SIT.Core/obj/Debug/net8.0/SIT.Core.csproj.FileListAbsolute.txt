@@ -1,0 +1,12 @@
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\bin\Debug\net8.0\SIT.Core.deps.json
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\bin\Debug\net8.0\SIT.Core.dll
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\bin\Debug\net8.0\SIT.Core.pdb
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\SIT.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\SIT.Core.AssemblyInfoInputs.cache
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\SIT.Core.AssemblyInfo.cs
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\SIT.Core.csproj.CoreCompileInputs.cache
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\SIT.Core.sourcelink.json
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\SIT.Core.dll
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\refint\SIT.Core.dll
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\SIT.Core.pdb
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net8.0\ref\SIT.Core.dll

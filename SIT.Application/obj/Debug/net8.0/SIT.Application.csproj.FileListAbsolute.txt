@@ -1,0 +1,16 @@
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\bin\Debug\net8.0\SIT.Application.deps.json
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\bin\Debug\net8.0\SIT.Application.dll
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\bin\Debug\net8.0\SIT.Application.pdb
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\bin\Debug\net8.0\SIT.Core.dll
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\bin\Debug\net8.0\SIT.Core.pdb
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Application.csproj.AssemblyReference.cache
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Application.AssemblyInfoInputs.cache
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Application.AssemblyInfo.cs
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Application.csproj.CoreCompileInputs.cache
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Application.sourcelink.json
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Appl.305981F8.Up2Date
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Application.dll
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\refint\SIT.Application.dll
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\SIT.Application.pdb
+C:\Users\atarh\SmartInventoryTracker\SIT.Application\obj\Debug\net8.0\ref\SIT.Application.dll

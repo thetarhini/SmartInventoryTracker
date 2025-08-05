@@ -1,0 +1,6 @@
+C:\Users\atarh\SmartInventoryTracker\SIT.Infrastructure\obj\Debug\net9.0\SIT.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\atarh\SmartInventoryTracker\SIT.Infrastructure\obj\Debug\net9.0\SIT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atarh\SmartInventoryTracker\SIT.Infrastructure\obj\Debug\net9.0\SIT.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\atarh\SmartInventoryTracker\SIT.Infrastructure\obj\Debug\net9.0\SIT.Infrastructure.AssemblyInfo.cs
+C:\Users\atarh\SmartInventoryTracker\SIT.Infrastructure\obj\Debug\net9.0\SIT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\atarh\SmartInventoryTracker\SIT.Infrastructure\obj\Debug\net9.0\SIT.Infrastructure.sourcelink.json

@@ -1,3 +1,5 @@
+namespace SIT.Core.Entities
+{
 public class Supplier
 {
     public int Id { get; set; }
@@ -6,4 +8,5 @@ public class Supplier
     public string Phone { get; set; }
 
     public ICollection<Product> Products { get; set; }
+}
 }

@@ -9,3 +9,4 @@ C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net9.0\SIT.Core.dll
 C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net9.0\refint\SIT.Core.dll
 C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net9.0\SIT.Core.pdb
 C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net9.0\ref\SIT.Core.dll
+C:\Users\atarh\SmartInventoryTracker\SIT.Core\obj\Debug\net9.0\SIT.Core.sourcelink.json

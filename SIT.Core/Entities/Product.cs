@@ -1,3 +1,5 @@
+namespace SIT.Core.Entities
+{
 public class Product
 {
     public int Id { get; set; }
@@ -9,4 +11,5 @@ public class Product
 
     public Category Category { get; set; }
     public Supplier Supplier { get; set; }
+}
 }
