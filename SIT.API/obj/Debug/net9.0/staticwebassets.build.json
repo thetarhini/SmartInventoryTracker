@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ebHt3VTh/Bo1l2uTpVVqUGZp4SRznRon92jDj8TJc68=",
+  "Source": "SIT.API",
+  "BasePath": "_content/SIT.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
