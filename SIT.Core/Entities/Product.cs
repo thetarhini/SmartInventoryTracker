@@ -9,7 +9,8 @@ public class Product
     public int StockQuantity { get; set; }
     public int ReorderLevel { get; set; }
 
-    public Category Category { get; set; }
-    public Supplier Supplier { get; set; }
+    // Remove [Required] attribute or 'required' keyword if present
+    public Category? Category { get; set; }
+    public Supplier? Supplier { get; set; }
 }
 }
